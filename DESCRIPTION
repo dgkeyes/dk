@@ -1,0 +1,14 @@
+Package: dk
+Type: Package
+Title: David Keyes's Personal Package
+Version: 0.1.0
+Author: David Keyes
+Maintainer: David Keyes <david@rfortherestofus.com>
+Description: A package with functions that David Keyes may find 
+    useful.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2
+RoxygenNote: 7.2.3
